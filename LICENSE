@@ -1,0 +1,70 @@
+Loom - All Rights Reserved
+Copyright (c) 2025-2026 NionX
+
+All rights are reserved. No part of this software, in source or compiled
+(.jar) form, may be reproduced, distributed, modified, sub-licensed, sold,
+or otherwise made available to any third party except as explicitly
+permitted below.
+
+PERMITTED USE
+-------------
+You are permitted to:
+
+ 1. Download the official Loom .jar from its official distribution
+    channels (the project's Modrinth page, GitHub releases, or any
+    channel explicitly authorized in writing by the copyright holder).
+ 2. Run the official .jar on any Minecraft server you own or operate.
+ 3. Edit Loom's own configuration files (config.yml and the files Loom
+    writes to manage server-icon.png, MOTD, etc.) for your own server.
+ 4. Use Loom to install, configure, and manage other plugins on your
+    own server.
+
+PROHIBITED
+----------
+Without prior written permission from the copyright holder you may NOT:
+
+ 1. Redistribute the .jar (modified or unmodified) on any other site,
+    marketplace, repository, mod-pack, server-pack, Discord, mirror, or
+    archive. The only authorized distribution is the project's official
+    page.
+ 2. Modify, decompile, reverse-engineer, or extract the source code for
+    the purpose of creating a derivative work, fork, port, or
+    competing project.
+ 3. Rebrand, rename, or repackage Loom or any portion of it.
+ 4. Remove, alter, or obscure copyright notices, version strings, the
+    "Loom" name, or the Loom logo embedded in the .jar.
+ 5. Use Loom or any portion of it as part of a commercial service
+    offering (paid hosting, paid configuration, paid resale) without
+    written permission.
+
+THIRD-PARTY COMPONENTS
+----------------------
+Loom bundles the following open-source dependencies, each governed by
+its own license (preserved inside the .jar under META-INF/):
+
+  - Paper API (MIT)
+  - Javalin (Apache License 2.0)
+  - Jackson (Apache License 2.0)
+  - SLF4J (MIT)
+  - Kyori Adventure (MIT)
+  - Monocraft font (SIL Open Font License 1.1)
+
+These licenses apply ONLY to those components. The Loom code, assets,
+logo, and resources outside of those bundled libraries remain governed
+by this license.
+
+NO WARRANTY
+-----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+CONTACT
+-------
+For licensing requests outside the permitted use above (resale,
+embedding in commercial offerings, source access for derivative works),
+contact the copyright holder via the project's official page.
